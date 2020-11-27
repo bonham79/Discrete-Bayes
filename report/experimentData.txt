@@ -1,0 +1,334 @@
+Data from experiments. Classified by hierarchy of Class size (K), sample size (Z), and use of identity matrix (True) or penalty matrix (False).
+
+###### K=2
+##### Z = S
+Generating testing data for seed 2580
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 2
+
+Generating 2x2 Gain Matrix. Identity Matrix: True
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.8631800000000001
+Fitting data for improved performance. Improvement factor 0.005 used over 10 iterations.
+Expected Gain from iteration 1 is 0.9983500000000001
+Expected Gain from iteration 2 is 0.99902
+Expected Gain from iteration 3 is 0.99936
+Expected Gain from iteration 4 is 0.99944
+Expected Gain from iteration 5 is 0.99949
+Expected Gain from iteration 6 is 0.99959
+Expected Gain from iteration 7 is 0.99964
+Expected Gain from iteration 8 is 0.9998400000000001
+Expected Gain from iteration 9 is 0.99986
+Expected Gain from iteration 10 is 0.9998100000000001
+
+Generating 2x2 Gain Matrix. Identity Matrix: False
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: -0.13682
+Fitting data for improved performance. Improvement factor 0.005 used over 10 iterations.
+Expected Gain from iteration 1 is -0.00165
+Expected Gain from iteration 2 is -0.00098
+Expected Gain from iteration 3 is -0.0006399999999999999
+Expected Gain from iteration 4 is -0.00056
+Expected Gain from iteration 5 is -0.00051
+Expected Gain from iteration 6 is -0.00041
+Expected Gain from iteration 7 is -0.00035999999999999997
+Expected Gain from iteration 8 is -0.00016
+Expected Gain from iteration 9 is -0.00014000000000000001
+Expected Gain from iteration 10 is -0.00018999999999999998
+
+##### Z = KS
+Generating testing data for seed 2590
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 200000
+Classes: 2
+
+Generating 2x2 Gain Matrix. Identity Matrix: True
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.51288
+Fitting data for improved performance. Improvement factor 0.005 used over 10 iterations.
+Expected Gain from iteration 1 is 0.99908
+Expected Gain from iteration 2 is 0.99933
+Expected Gain from iteration 3 is 0.9995499999999999
+Expected Gain from iteration 4 is 0.999575
+Expected Gain from iteration 5 is 0.99973
+Expected Gain from iteration 6 is 0.9997699999999999
+Expected Gain from iteration 7 is 0.999815
+Expected Gain from iteration 8 is 0.9998450000000001
+Expected Gain from iteration 9 is 0.9998499999999999
+Expected Gain from iteration 10 is 0.999895
+
+Generating 2x2 Gain Matrix. Identity Matrix: False
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: -0.48712
+Fitting data for improved performance. Improvement factor 0.005 used over 10 iterations.
+Expected Gain from iteration 1 is -0.00092
+Expected Gain from iteration 2 is -0.00067
+Expected Gain from iteration 3 is -0.00045
+Expected Gain from iteration 4 is -0.00042500000000000003
+Expected Gain from iteration 5 is -0.00027
+Expected Gain from iteration 6 is -0.00023
+Expected Gain from iteration 7 is -0.000185
+Expected Gain from iteration 8 is -0.000155
+Expected Gain from iteration 9 is -0.00015000000000000001
+Expected Gain from iteration 10 is -0.000105
+
+
+##### Z=2KS
+Generating testing data for seed 2600
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 400000
+Classes: 2
+
+Generating 2x2 Gain Matrix. Identity Matrix: True
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.5183975000000001
+Fitting data for improved performance. Improvement factor 0.005 used over 10 iterations.
+Expected Gain from iteration 1 is 0.9994775
+Expected Gain from iteration 2 is 0.9995525
+Expected Gain from iteration 3 is 0.9995925
+Expected Gain from iteration 4 is 0.9996499999999999
+Expected Gain from iteration 5 is 0.9997425
+Expected Gain from iteration 6 is 0.9997725
+Expected Gain from iteration 7 is 0.9997674999999999
+Expected Gain from iteration 8 is 0.9997775
+Expected Gain from iteration 9 is 0.9998250000000001
+Expected Gain from iteration 10 is 0.9998575000000001
+
+Generating 2x2 Gain Matrix. Identity Matrix: False
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: -0.4816025
+Fitting data for improved performance. Improvement factor 0.005 used over 10 iterations.
+Expected Gain from iteration 1 is -0.0005225
+Expected Gain from iteration 2 is -0.0004475
+Expected Gain from iteration 3 is -0.0004075
+Expected Gain from iteration 4 is -0.00035
+Expected Gain from iteration 5 is -0.0002575
+Expected Gain from iteration 6 is -0.0002275
+Expected Gain from iteration 7 is -0.0002325
+Expected Gain from iteration 8 is -0.0002225
+Expected Gain from iteration 9 is -0.000175
+Expected Gain from iteration 10 is -0.0001425
+
+
+###### K=4
+##### Z = S
+Generating testing data for seed 2550
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 4
+
+Generating 4x4 Gain Matrix. Identity Matrix: True
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.37807999999999997
+Fitting data for improved performance. Improvement factor 0.005 used over 10 iterations.
+Expected Gain from iteration 1 is 0.9943200000000001
+Expected Gain from iteration 2 is 0.99699
+Expected Gain from iteration 3 is 0.99788
+Expected Gain from iteration 4 is 0.9981800000000001
+Expected Gain from iteration 5 is 0.99854
+Expected Gain from iteration 6 is 0.99884
+Expected Gain from iteration 7 is 0.99892
+Expected Gain from iteration 8 is 0.999
+Expected Gain from iteration 9 is 0.99916
+Expected Gain from iteration 10 is 0.9992399999999999
+
+Generating 4x4 Gain Matrix. Identity Matrix: False
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: -0.62192
+Fitting data for improved performance. Improvement factor 0.005 used over 10 iterations.
+Expected Gain from iteration 1 is -0.00568
+Expected Gain from iteration 2 is -0.00301
+Expected Gain from iteration 3 is -0.0021200000000000004
+Expected Gain from iteration 4 is -0.00182
+Expected Gain from iteration 5 is -0.00146
+Expected Gain from iteration 6 is -0.00116
+Expected Gain from iteration 7 is -0.00108
+Expected Gain from iteration 8 is -0.001
+Expected Gain from iteration 9 is -0.00084
+Expected Gain from iteration 10 is -0.00076
+
+##### Z = KS
+Generating testing data for seed 2560
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 400000
+Classes: 4
+
+Generating 4x4 Gain Matrix. Identity Matrix: True
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.418105
+Fitting data for improved performance. Improvement factor 0.005 used over 10 iterations.
+Expected Gain from iteration 1 is 0.9984474999999999
+Expected Gain from iteration 2 is 0.9987125000000001
+Expected Gain from iteration 3 is 0.9988975
+Expected Gain from iteration 4 is 0.999015
+Expected Gain from iteration 5 is 0.999175
+Expected Gain from iteration 6 is 0.9993050000000001
+Expected Gain from iteration 7 is 0.9993575
+Expected Gain from iteration 8 is 0.9994025
+Expected Gain from iteration 9 is 0.9994874999999999
+Expected Gain from iteration 10 is 0.9994799999999999
+
+Generating 4x4 Gain Matrix. Identity Matrix: False
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: -0.5818949999999999
+Fitting data for improved performance. Improvement factor 0.005 used over 10 iterations.
+Expected Gain from iteration 1 is -0.0015524999999999996
+Expected Gain from iteration 2 is -0.0012875
+Expected Gain from iteration 3 is -0.0011025
+Expected Gain from iteration 4 is -0.0009850000000000002
+Expected Gain from iteration 5 is -0.0008249999999999999
+Expected Gain from iteration 6 is -0.000695
+Expected Gain from iteration 7 is -0.0006425
+Expected Gain from iteration 8 is -0.0005975
+Expected Gain from iteration 9 is -0.0005125
+Expected Gain from iteration 10 is -0.00052
+
+
+##### Z = 2KS
+Generating testing data for seed 2570
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 800000
+Classes: 4
+
+Generating 4x4 Gain Matrix. Identity Matrix: True
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.43520125
+Fitting data for improved performance. Improvement factor 0.005 used over 10 iterations.
+Expected Gain from iteration 1 is 0.9992524999999999
+Expected Gain from iteration 2 is 0.9993175000000001
+Expected Gain from iteration 3 is 0.99938125
+Expected Gain from iteration 4 is 0.99944125
+Expected Gain from iteration 5 is 0.99950125
+Expected Gain from iteration 6 is 0.9995674999999999
+Expected Gain from iteration 7 is 0.9996050000000001
+Expected Gain from iteration 8 is 0.9996200000000001
+Expected Gain from iteration 9 is 0.9996274999999999
+Expected Gain from iteration 10 is 0.9996375
+
+Generating 4x4 Gain Matrix. Identity Matrix: False
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: -0.56479875
+Fitting data for improved performance. Improvement factor 0.005 used over 10 iterations.
+Expected Gain from iteration 1 is -0.0007474999999999999
+Expected Gain from iteration 2 is -0.0006825000000000001
+Expected Gain from iteration 3 is -0.0006187499999999999
+Expected Gain from iteration 4 is -0.0005587499999999999
+Expected Gain from iteration 5 is -0.0004987500000000001
+Expected Gain from iteration 6 is -0.00043250000000000005
+Expected Gain from iteration 7 is -0.00039500000000000006
+Expected Gain from iteration 8 is -0.0003800000000000001
+Expected Gain from iteration 9 is -0.0003725
+Expected Gain from iteration 10 is -0.0003625
+
+
+###### K=6
+##### Z = S
+Generating testing data for seed 2545
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 6
+
+Generating 6x6 Gain Matrix. Identity Matrix: True
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.25873
+Fitting data for improved performance. Improvement factor 0.005 used over 10 iterations.
+Expected Gain from iteration 1 is 0.99093
+Expected Gain from iteration 2 is 0.99615
+Expected Gain from iteration 3 is 0.9974099999999999
+Expected Gain from iteration 4 is 0.9978199999999999
+Expected Gain from iteration 5 is 0.99834
+Expected Gain from iteration 6 is 0.99864
+Expected Gain from iteration 7 is 0.9988200000000002
+Expected Gain from iteration 8 is 0.99898
+Expected Gain from iteration 9 is 0.9992100000000002
+Expected Gain from iteration 10 is 0.9992200000000001
+
+Generating 6x6 Gain Matrix. Identity Matrix: False
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: -0.7412699999999999
+Fitting data for improved performance. Improvement factor 0.005 used over 10 iterations.
+Expected Gain from iteration 1 is -0.009070000000000002
+Expected Gain from iteration 2 is -0.00385
+Expected Gain from iteration 3 is -0.0025900000000000007
+Expected Gain from iteration 4 is -0.0021800000000000005
+Expected Gain from iteration 5 is -0.0016600000000000007
+Expected Gain from iteration 6 is -0.0013600000000000005
+Expected Gain from iteration 7 is -0.00118
+Expected Gain from iteration 8 is -0.0010200000000000003
+Expected Gain from iteration 9 is -0.0007900000000000002
+Expected Gain from iteration 10 is -0.0007800000000000001
+
+
+##### Z = KS
+Generating testing data for seed 2535
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 600000
+Classes: 6
+
+Generating 6x6 Gain Matrix. Identity Matrix: True
+6x6 Economic Gain Matrix Generated
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.20309166666666664
+Fitting data for improved performance. Improvement factor 0.005 used over 10 iterations.
+Expected Gain from iteration 1 is 0.9982833333333332
+Expected Gain from iteration 2 is 0.9984866666666666
+Expected Gain from iteration 3 is 0.9986883333333334
+Expected Gain from iteration 4 is 0.9987366666666667
+Expected Gain from iteration 5 is 0.9989
+Expected Gain from iteration 6 is 0.9989716666666666
+Expected Gain from iteration 7 is 0.9990466666666666
+Expected Gain from iteration 8 is 0.9990516666666667
+Expected Gain from iteration 9 is 0.9991766666666667
+Expected Gain from iteration 10 is 0.9992583333333335
+
+Generating 6x6 Gain Matrix. Identity Matrix: False
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: -0.7969083333333336
+Fitting data for improved performance. Improvement factor 0.005 used over 10 iterations.
+Expected Gain from iteration 1 is -0.0017166666666666671
+Expected Gain from iteration 2 is -0.0015133333333333335
+Expected Gain from iteration 3 is -0.0013116666666666667
+Expected Gain from iteration 4 is -0.0012633333333333333
+Expected Gain from iteration 5 is -0.0011
+Expected Gain from iteration 6 is -0.0010283333333333331
+Expected Gain from iteration 7 is -0.0009533333333333333
+Expected Gain from iteration 8 is -0.0009483333333333335
+Expected Gain from iteration 9 is -0.0008233333333333335
+Expected Gain from iteration 10 is -0.0007416666666666666
+
+##### Z = 2KS
+Generating testing data for seed 2525
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 1200000
+Classes: 6
+
+Generating 6x6 Gain Matrix. Identity Matrix: True
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.26554
+Fitting data for improved performance. Improvement factor 0.005 used over 10 iterations.
+Expected Gain from iteration 1 is 0.9991966666666666
+Expected Gain from iteration 2 is 0.999265
+Expected Gain from iteration 3 is 0.9993033333333334
+Expected Gain from iteration 4 is 0.9993283333333334
+Expected Gain from iteration 5 is 0.9994066666666667
+Expected Gain from iteration 6 is 0.9994625
+Expected Gain from iteration 7 is 0.9994925
+Expected Gain from iteration 8 is 0.9995350000000001
+Expected Gain from iteration 9 is 0.9995475
+Expected Gain from iteration 10 is 0.9995875000000001
+
+Generating 6x6 Gain Matrix. Identity Matrix: False
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: -0.73446
+Fitting data for improved performance. Improvement factor 0.005 used over 10 iterations.
+Expected Gain from iteration 1 is -0.0008033333333333333
+Expected Gain from iteration 2 is -0.0007350000000000001
+Expected Gain from iteration 3 is -0.0006966666666666667
+Expected Gain from iteration 4 is -0.0006716666666666665
+Expected Gain from iteration 5 is -0.0005933333333333333
+Expected Gain from iteration 6 is -0.0005375
+Expected Gain from iteration 7 is -0.0005074999999999999
+Expected Gain from iteration 8 is -0.00046500000000000014
+Expected Gain from iteration 9 is -0.00045250000000000005
+Expected Gain from iteration 10 is -0.00041250000000000005

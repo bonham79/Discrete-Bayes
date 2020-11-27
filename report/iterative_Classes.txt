@@ -1,0 +1,1323 @@
+Generating testing data for seed 22
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 2
+Generating 2x2 Gain Matrix. Identity Matrix: True
+2x2 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 2 classes and 100000 possible measures.
+Class conditional probabilities generated for 2 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.5132
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.99926
+Expected Gain from iteration 2 is 0.99953
+Expected Gain from iteration 3 is 0.99976
+Expected Gain from iteration 4 is 0.99982
+Expected Gain from iteration 5 is 0.99987
+Expected Gain from iteration 6 is 0.99987
+Expected Gain from iteration 7 is 0.9997799999999999
+Expected Gain from iteration 8 is 0.9999399999999999
+Expected Gain from iteration 9 is 0.99996
+Expected Gain from iteration 10 is 1.0
+The expected gain for fitted data after 10 iterations is: 1.0
+Writing to file.
+Done.
+Generating testing data for seed 23
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 3
+Generating 3x3 Gain Matrix. Identity Matrix: True
+3x3 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 3 classes and 100000 possible measures.
+Class conditional probabilities generated for 3 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.47292
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.99827
+Expected Gain from iteration 2 is 0.9991000000000001
+Expected Gain from iteration 3 is 0.9993400000000001
+Expected Gain from iteration 4 is 0.9993700000000001
+Expected Gain from iteration 5 is 0.99944
+Expected Gain from iteration 6 is 0.99944
+Expected Gain from iteration 7 is 0.99953
+Expected Gain from iteration 8 is 0.9996400000000001
+Expected Gain from iteration 9 is 0.9997100000000001
+Expected Gain from iteration 10 is 0.9998100000000001
+The expected gain for fitted data after 10 iterations is: 0.9998100000000001
+Writing to file.
+Done.
+Generating testing data for seed 24
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 4
+Generating 4x4 Gain Matrix. Identity Matrix: True
+4x4 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 4 classes and 100000 possible measures.
+Class conditional probabilities generated for 4 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.40728
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.9973700000000001
+Expected Gain from iteration 2 is 0.9987699999999999
+Expected Gain from iteration 3 is 0.99916
+Expected Gain from iteration 4 is 0.99929
+Expected Gain from iteration 5 is 0.99941
+Expected Gain from iteration 6 is 0.99942
+Expected Gain from iteration 7 is 0.99932
+Expected Gain from iteration 8 is 0.99936
+Expected Gain from iteration 9 is 0.99947
+Expected Gain from iteration 10 is 0.9996900000000001
+The expected gain for fitted data after 10 iterations is: 0.9996900000000001
+Writing to file.
+Done.
+Generating testing data for seed 25
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 5
+Generating 5x5 Gain Matrix. Identity Matrix: True
+5x5 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 5 classes and 100000 possible measures.
+Class conditional probabilities generated for 5 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.23068
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.99644
+Expected Gain from iteration 2 is 0.9984900000000001
+Expected Gain from iteration 3 is 0.9989800000000001
+Expected Gain from iteration 4 is 0.9991
+Expected Gain from iteration 5 is 0.9993000000000001
+Expected Gain from iteration 6 is 0.9994700000000001
+Expected Gain from iteration 7 is 0.9995
+Expected Gain from iteration 8 is 0.99961
+Expected Gain from iteration 9 is 0.9996400000000002
+Expected Gain from iteration 10 is 0.99967
+The expected gain for fitted data after 10 iterations is: 0.99967
+Writing to file.
+Done.
+Generating testing data for seed 26
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 6
+Generating 6x6 Gain Matrix. Identity Matrix: True
+6x6 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 6 classes and 100000 possible measures.
+Class conditional probabilities generated for 6 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.25692
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.99549
+Expected Gain from iteration 2 is 0.99756
+Expected Gain from iteration 3 is 0.9983399999999999
+Expected Gain from iteration 4 is 0.9986500000000001
+Expected Gain from iteration 5 is 0.9987899999999998
+Expected Gain from iteration 6 is 0.9991199999999999
+Expected Gain from iteration 7 is 0.99918
+Expected Gain from iteration 8 is 0.9993500000000001
+Expected Gain from iteration 9 is 0.99944
+Expected Gain from iteration 10 is 0.99945
+The expected gain for fitted data after 10 iterations is: 0.99945
+Writing to file.
+Done.
+Generating testing data for seed 27
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 7
+Generating 7x7 Gain Matrix. Identity Matrix: True
+7x7 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 7 classes and 100000 possible measures.
+Class conditional probabilities generated for 7 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.18992
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.9942999999999999
+Expected Gain from iteration 2 is 0.99775
+Expected Gain from iteration 3 is 0.99808
+Expected Gain from iteration 4 is 0.99867
+Expected Gain from iteration 5 is 0.99878
+Expected Gain from iteration 6 is 0.9989699999999999
+Expected Gain from iteration 7 is 0.99896
+Expected Gain from iteration 8 is 0.9989600000000001
+Expected Gain from iteration 9 is 0.99903
+Expected Gain from iteration 10 is 0.99926
+The expected gain for fitted data after 10 iterations is: 0.99926
+Writing to file.
+Done.
+Generating testing data for seed 28
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 8
+Generating 8x8 Gain Matrix. Identity Matrix: True
+8x8 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 8 classes and 100000 possible measures.
+Class conditional probabilities generated for 8 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.1891
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.99371
+Expected Gain from iteration 2 is 0.9968199999999999
+Expected Gain from iteration 3 is 0.99782
+Expected Gain from iteration 4 is 0.9979800000000001
+Expected Gain from iteration 5 is 0.99843
+Expected Gain from iteration 6 is 0.9984899999999999
+Expected Gain from iteration 7 is 0.99868
+Expected Gain from iteration 8 is 0.99883
+Expected Gain from iteration 9 is 0.9989800000000001
+Expected Gain from iteration 10 is 0.99922
+The expected gain for fitted data after 10 iterations is: 0.99922
+Writing to file.
+Done.
+Generating testing data for seed 29
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 9
+Generating 9x9 Gain Matrix. Identity Matrix: True
+9x9 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 9 classes and 100000 possible measures.
+Class conditional probabilities generated for 9 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.17892
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.99217
+Expected Gain from iteration 2 is 0.9964000000000001
+Expected Gain from iteration 3 is 0.9975800000000001
+Expected Gain from iteration 4 is 0.9980099999999998
+Expected Gain from iteration 5 is 0.99823
+Expected Gain from iteration 6 is 0.99865
+Expected Gain from iteration 7 is 0.9989699999999999
+Expected Gain from iteration 8 is 0.9991099999999999
+Expected Gain from iteration 9 is 0.99912
+Expected Gain from iteration 10 is 0.99943
+The expected gain for fitted data after 10 iterations is: 0.99943
+Writing to file.
+Done.
+Generating testing data for seed 30
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 10
+Generating 10x10 Gain Matrix. Identity Matrix: True
+10x10 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 10 classes and 100000 possible measures.
+Class conditional probabilities generated for 10 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.16459000000000001
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.9912299999999999
+Expected Gain from iteration 2 is 0.99565
+Expected Gain from iteration 3 is 0.99724
+Expected Gain from iteration 4 is 0.9978800000000001
+Expected Gain from iteration 5 is 0.9981799999999998
+Expected Gain from iteration 6 is 0.99856
+Expected Gain from iteration 7 is 0.9988499999999999
+Expected Gain from iteration 8 is 0.9991099999999999
+Expected Gain from iteration 9 is 0.99911
+Expected Gain from iteration 10 is 0.9991300000000001
+The expected gain for fitted data after 10 iterations is: 0.9991300000000001
+Writing to file.
+Done.
+Generating testing data for seed 31
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 11
+Generating 11x11 Gain Matrix. Identity Matrix: True
+11x11 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 11 classes and 100000 possible measures.
+Class conditional probabilities generated for 11 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.13911
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.9897599999999999
+Expected Gain from iteration 2 is 0.9955500000000002
+Expected Gain from iteration 3 is 0.9970100000000001
+Expected Gain from iteration 4 is 0.9975
+Expected Gain from iteration 5 is 0.99794
+Expected Gain from iteration 6 is 0.9984200000000001
+Expected Gain from iteration 7 is 0.99839
+Expected Gain from iteration 8 is 0.99861
+Expected Gain from iteration 9 is 0.99877
+Expected Gain from iteration 10 is 0.99872
+The expected gain for fitted data after 10 iterations is: 0.99872
+Writing to file.
+Done.
+Generating testing data for seed 32
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 12
+Generating 12x12 Gain Matrix. Identity Matrix: True
+12x12 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 12 classes and 100000 possible measures.
+Class conditional probabilities generated for 12 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.12355000000000001
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.9894100000000001
+Expected Gain from iteration 2 is 0.99502
+Expected Gain from iteration 3 is 0.9964999999999999
+Expected Gain from iteration 4 is 0.9975700000000001
+Expected Gain from iteration 5 is 0.9980899999999999
+Expected Gain from iteration 6 is 0.99829
+Expected Gain from iteration 7 is 0.9984600000000001
+Expected Gain from iteration 8 is 0.9985100000000002
+Expected Gain from iteration 9 is 0.9988399999999998
+Expected Gain from iteration 10 is 0.9989500000000001
+The expected gain for fitted data after 10 iterations is: 0.9989500000000001
+Writing to file.
+Done.
+Generating testing data for seed 33
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 13
+Generating 13x13 Gain Matrix. Identity Matrix: True
+13x13 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 13 classes and 100000 possible measures.
+Class conditional probabilities generated for 13 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.14738
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.9889700000000003
+Expected Gain from iteration 2 is 0.9951900000000001
+Expected Gain from iteration 3 is 0.99653
+Expected Gain from iteration 4 is 0.99785
+Expected Gain from iteration 5 is 0.99807
+Expected Gain from iteration 6 is 0.9984999999999999
+Expected Gain from iteration 7 is 0.9985499999999998
+Expected Gain from iteration 8 is 0.9988
+Expected Gain from iteration 9 is 0.9990099999999998
+Expected Gain from iteration 10 is 0.9991899999999998
+The expected gain for fitted data after 10 iterations is: 0.9991899999999998
+Writing to file.
+Done.
+Generating testing data for seed 34
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 14
+Generating 14x14 Gain Matrix. Identity Matrix: True
+14x14 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 14 classes and 100000 possible measures.
+Class conditional probabilities generated for 14 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.10121000000000001
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.9875099999999999
+Expected Gain from iteration 2 is 0.99429
+Expected Gain from iteration 3 is 0.9958899999999999
+Expected Gain from iteration 4 is 0.9969600000000001
+Expected Gain from iteration 5 is 0.9978300000000001
+Expected Gain from iteration 6 is 0.9980500000000001
+Expected Gain from iteration 7 is 0.99836
+Expected Gain from iteration 8 is 0.9983099999999999
+Expected Gain from iteration 9 is 0.99853
+Expected Gain from iteration 10 is 0.9987700000000002
+The expected gain for fitted data after 10 iterations is: 0.9987700000000002
+Writing to file.
+Done.
+Generating testing data for seed 35
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 15
+Generating 15x15 Gain Matrix. Identity Matrix: True
+15x15 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 15 classes and 100000 possible measures.
+Class conditional probabilities generated for 15 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.10968
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.9864900000000001
+Expected Gain from iteration 2 is 0.99337
+Expected Gain from iteration 3 is 0.99547
+Expected Gain from iteration 4 is 0.99687
+Expected Gain from iteration 5 is 0.99755
+Expected Gain from iteration 6 is 0.99803
+Expected Gain from iteration 7 is 0.99798
+Expected Gain from iteration 8 is 0.9981000000000001
+Expected Gain from iteration 9 is 0.99843
+Expected Gain from iteration 10 is 0.9984099999999999
+The expected gain for fitted data after 10 iterations is: 0.9984099999999999
+Writing to file.
+Done.
+Generating testing data for seed 36
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 16
+Generating 16x16 Gain Matrix. Identity Matrix: True
+16x16 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 16 classes and 100000 possible measures.
+Class conditional probabilities generated for 16 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.11637
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.98571
+Expected Gain from iteration 2 is 0.9936200000000002
+Expected Gain from iteration 3 is 0.9957100000000001
+Expected Gain from iteration 4 is 0.9967699999999999
+Expected Gain from iteration 5 is 0.9975700000000001
+Expected Gain from iteration 6 is 0.9977400000000001
+Expected Gain from iteration 7 is 0.9980800000000001
+Expected Gain from iteration 8 is 0.9982800000000002
+Expected Gain from iteration 9 is 0.9981299999999999
+Expected Gain from iteration 10 is 0.99832
+The expected gain for fitted data after 10 iterations is: 0.99832
+Writing to file.
+Done.
+Generating testing data for seed 37
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 17
+Generating 17x17 Gain Matrix. Identity Matrix: True
+17x17 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 17 classes and 100000 possible measures.
+Class conditional probabilities generated for 17 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.09774000000000002
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.9856900000000001
+Expected Gain from iteration 2 is 0.9939599999999997
+Expected Gain from iteration 3 is 0.99563
+Expected Gain from iteration 4 is 0.9967799999999999
+Expected Gain from iteration 5 is 0.99739
+Expected Gain from iteration 6 is 0.9978300000000001
+Expected Gain from iteration 7 is 0.9982700000000001
+Expected Gain from iteration 8 is 0.9985499999999998
+Expected Gain from iteration 9 is 0.9986299999999999
+Expected Gain from iteration 10 is 0.9988199999999999
+The expected gain for fitted data after 10 iterations is: 0.9988199999999999
+Writing to file.
+Done.
+Generating testing data for seed 38
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 18
+Generating 18x18 Gain Matrix. Identity Matrix: True
+18x18 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 18 classes and 100000 possible measures.
+Class conditional probabilities generated for 18 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.08914
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.9848500000000001
+Expected Gain from iteration 2 is 0.99336
+Expected Gain from iteration 3 is 0.99564
+Expected Gain from iteration 4 is 0.99653
+Expected Gain from iteration 5 is 0.99738
+Expected Gain from iteration 6 is 0.9977899999999998
+Expected Gain from iteration 7 is 0.99808
+Expected Gain from iteration 8 is 0.9985199999999997
+Expected Gain from iteration 9 is 0.9985600000000002
+Expected Gain from iteration 10 is 0.9988
+The expected gain for fitted data after 10 iterations is: 0.9988
+Writing to file.
+Done.
+Generating testing data for seed 39
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 19
+Generating 19x19 Gain Matrix. Identity Matrix: True
+19x19 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 19 classes and 100000 possible measures.
+Class conditional probabilities generated for 19 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.10635
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.98359
+Expected Gain from iteration 2 is 0.9926300000000002
+Expected Gain from iteration 3 is 0.99492
+Expected Gain from iteration 4 is 0.99593
+Expected Gain from iteration 5 is 0.9966199999999998
+Expected Gain from iteration 6 is 0.9972699999999998
+Expected Gain from iteration 7 is 0.9976999999999998
+Expected Gain from iteration 8 is 0.99794
+Expected Gain from iteration 9 is 0.9982200000000001
+Expected Gain from iteration 10 is 0.9984700000000001
+The expected gain for fitted data after 10 iterations is: 0.9984700000000001
+Writing to file.
+Done.
+Generating testing data for seed 40
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 20
+Generating 20x20 Gain Matrix. Identity Matrix: True
+20x20 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 20 classes and 100000 possible measures.
+Class conditional probabilities generated for 20 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.09373000000000001
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.98212
+Expected Gain from iteration 2 is 0.9920500000000001
+Expected Gain from iteration 3 is 0.9945499999999999
+Expected Gain from iteration 4 is 0.9959200000000001
+Expected Gain from iteration 5 is 0.9961300000000001
+Expected Gain from iteration 6 is 0.9968000000000001
+Expected Gain from iteration 7 is 0.99696
+Expected Gain from iteration 8 is 0.9973200000000001
+Expected Gain from iteration 9 is 0.99778
+Expected Gain from iteration 10 is 0.9980200000000001
+The expected gain for fitted data after 10 iterations is: 0.9980200000000001
+Writing to file.
+Done.
+Generating testing data for seed 41
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 21
+Generating 21x21 Gain Matrix. Identity Matrix: True
+21x21 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 21 classes and 100000 possible measures.
+Class conditional probabilities generated for 21 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.08249000000000001
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.9814600000000001
+Expected Gain from iteration 2 is 0.99121
+Expected Gain from iteration 3 is 0.99377
+Expected Gain from iteration 4 is 0.9951500000000002
+Expected Gain from iteration 5 is 0.9960700000000002
+Expected Gain from iteration 6 is 0.99619
+Expected Gain from iteration 7 is 0.99698
+Expected Gain from iteration 8 is 0.9972099999999999
+Expected Gain from iteration 9 is 0.9975799999999999
+Expected Gain from iteration 10 is 0.9977700000000003
+The expected gain for fitted data after 10 iterations is: 0.9977700000000003
+Writing to file.
+Done.
+Generating testing data for seed 42
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 22
+Generating 22x22 Gain Matrix. Identity Matrix: True
+22x22 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 22 classes and 100000 possible measures.
+Class conditional probabilities generated for 22 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.08661999999999999
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.9809199999999998
+Expected Gain from iteration 2 is 0.99101
+Expected Gain from iteration 3 is 0.9944800000000001
+Expected Gain from iteration 4 is 0.9955199999999998
+Expected Gain from iteration 5 is 0.9964900000000001
+Expected Gain from iteration 6 is 0.9968199999999999
+Expected Gain from iteration 7 is 0.9975700000000002
+Expected Gain from iteration 8 is 0.9977600000000001
+Expected Gain from iteration 9 is 0.9980899999999999
+Expected Gain from iteration 10 is 0.99803
+The expected gain for fitted data after 10 iterations is: 0.99803
+Writing to file.
+Done.
+Generating testing data for seed 43
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 23
+Generating 23x23 Gain Matrix. Identity Matrix: True
+23x23 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 23 classes and 100000 possible measures.
+Class conditional probabilities generated for 23 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.07364000000000001
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.9788599999999998
+Expected Gain from iteration 2 is 0.9898100000000001
+Expected Gain from iteration 3 is 0.99308
+Expected Gain from iteration 4 is 0.99454
+Expected Gain from iteration 5 is 0.9955200000000002
+Expected Gain from iteration 6 is 0.9964700000000002
+Expected Gain from iteration 7 is 0.99652
+Expected Gain from iteration 8 is 0.9970200000000001
+Expected Gain from iteration 9 is 0.9973
+Expected Gain from iteration 10 is 0.9977300000000001
+The expected gain for fitted data after 10 iterations is: 0.9977300000000001
+Writing to file.
+Done.
+Generating testing data for seed 44
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 24
+Generating 24x24 Gain Matrix. Identity Matrix: True
+24x24 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 24 classes and 100000 possible measures.
+Class conditional probabilities generated for 24 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.07975
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.9786699999999998
+Expected Gain from iteration 2 is 0.98918
+Expected Gain from iteration 3 is 0.9924899999999999
+Expected Gain from iteration 4 is 0.9946799999999999
+Expected Gain from iteration 5 is 0.99516
+Expected Gain from iteration 6 is 0.9961999999999999
+Expected Gain from iteration 7 is 0.99665
+Expected Gain from iteration 8 is 0.99695
+Expected Gain from iteration 9 is 0.9971899999999999
+Expected Gain from iteration 10 is 0.9975499999999998
+The expected gain for fitted data after 10 iterations is: 0.9975499999999998
+Writing to file.
+Done.
+Generating testing data for seed 45
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 25
+Generating 25x25 Gain Matrix. Identity Matrix: True
+25x25 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 25 classes and 100000 possible measures.
+Class conditional probabilities generated for 25 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.0627
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.9777
+Expected Gain from iteration 2 is 0.9896500000000001
+Expected Gain from iteration 3 is 0.9920099999999997
+Expected Gain from iteration 4 is 0.9942399999999998
+Expected Gain from iteration 5 is 0.9951199999999998
+Expected Gain from iteration 6 is 0.99621
+Expected Gain from iteration 7 is 0.9969400000000002
+Expected Gain from iteration 8 is 0.9973999999999998
+Expected Gain from iteration 9 is 0.9973100000000001
+Expected Gain from iteration 10 is 0.99751
+The expected gain for fitted data after 10 iterations is: 0.99751
+Writing to file.
+Done.
+Generating testing data for seed 46
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 26
+Generating 26x26 Gain Matrix. Identity Matrix: True
+26x26 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 26 classes and 100000 possible measures.
+Class conditional probabilities generated for 26 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.06851
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.9765200000000002
+Expected Gain from iteration 2 is 0.9894499999999999
+Expected Gain from iteration 3 is 0.9928300000000001
+Expected Gain from iteration 4 is 0.99467
+Expected Gain from iteration 5 is 0.9957599999999998
+Expected Gain from iteration 6 is 0.9963099999999999
+Expected Gain from iteration 7 is 0.9967600000000003
+Expected Gain from iteration 8 is 0.9968400000000002
+Expected Gain from iteration 9 is 0.9971200000000001
+Expected Gain from iteration 10 is 0.9975200000000001
+The expected gain for fitted data after 10 iterations is: 0.9975200000000001
+Writing to file.
+Done.
+Generating testing data for seed 47
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 27
+Generating 27x27 Gain Matrix. Identity Matrix: True
+27x27 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 27 classes and 100000 possible measures.
+Class conditional probabilities generated for 27 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.06464
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.9757100000000003
+Expected Gain from iteration 2 is 0.9886099999999999
+Expected Gain from iteration 3 is 0.9922599999999999
+Expected Gain from iteration 4 is 0.9936100000000001
+Expected Gain from iteration 5 is 0.99486
+Expected Gain from iteration 6 is 0.9958899999999997
+Expected Gain from iteration 7 is 0.9965200000000001
+Expected Gain from iteration 8 is 0.9968800000000001
+Expected Gain from iteration 9 is 0.9969199999999999
+Expected Gain from iteration 10 is 0.99742
+The expected gain for fitted data after 10 iterations is: 0.99742
+Writing to file.
+Done.
+Generating testing data for seed 48
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 28
+Generating 28x28 Gain Matrix. Identity Matrix: True
+28x28 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 28 classes and 100000 possible measures.
+Class conditional probabilities generated for 28 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.06721
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.9754700000000001
+Expected Gain from iteration 2 is 0.98861
+Expected Gain from iteration 3 is 0.9931099999999999
+Expected Gain from iteration 4 is 0.9950700000000001
+Expected Gain from iteration 5 is 0.9959100000000002
+Expected Gain from iteration 6 is 0.9968600000000002
+Expected Gain from iteration 7 is 0.9969199999999998
+Expected Gain from iteration 8 is 0.9972800000000002
+Expected Gain from iteration 9 is 0.9975200000000001
+Expected Gain from iteration 10 is 0.99793
+The expected gain for fitted data after 10 iterations is: 0.99793
+Writing to file.
+Done.
+Generating testing data for seed 49
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 29
+Generating 29x29 Gain Matrix. Identity Matrix: True
+29x29 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 29 classes and 100000 possible measures.
+Class conditional probabilities generated for 29 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.07128
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.97507
+Expected Gain from iteration 2 is 0.9880199999999999
+Expected Gain from iteration 3 is 0.99235
+Expected Gain from iteration 4 is 0.99427
+Expected Gain from iteration 5 is 0.9954500000000002
+Expected Gain from iteration 6 is 0.9961099999999999
+Expected Gain from iteration 7 is 0.9968299999999999
+Expected Gain from iteration 8 is 0.9972599999999999
+Expected Gain from iteration 9 is 0.9973500000000001
+Expected Gain from iteration 10 is 0.9975500000000002
+The expected gain for fitted data after 10 iterations is: 0.9975500000000002
+Writing to file.
+Done.
+Generating testing data for seed 50
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 30
+Generating 30x30 Gain Matrix. Identity Matrix: True
+30x30 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 30 classes and 100000 possible measures.
+Class conditional probabilities generated for 30 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.05556
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.9730199999999998
+Expected Gain from iteration 2 is 0.98733
+Expected Gain from iteration 3 is 0.99174
+Expected Gain from iteration 4 is 0.9937699999999999
+Expected Gain from iteration 5 is 0.9949799999999998
+Expected Gain from iteration 6 is 0.9956999999999999
+Expected Gain from iteration 7 is 0.99637
+Expected Gain from iteration 8 is 0.9967599999999999
+Expected Gain from iteration 9 is 0.99678
+Expected Gain from iteration 10 is 0.99709
+The expected gain for fitted data after 10 iterations is: 0.99709
+Writing to file.
+Done.
+Generating testing data for seed 51
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 31
+Generating 31x31 Gain Matrix. Identity Matrix: True
+31x31 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 31 classes and 100000 possible measures.
+Class conditional probabilities generated for 31 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.0571
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.97347
+Expected Gain from iteration 2 is 0.98789
+Expected Gain from iteration 3 is 0.99178
+Expected Gain from iteration 4 is 0.9937999999999998
+Expected Gain from iteration 5 is 0.9950800000000001
+Expected Gain from iteration 6 is 0.9962700000000001
+Expected Gain from iteration 7 is 0.9968999999999998
+Expected Gain from iteration 8 is 0.99719
+Expected Gain from iteration 9 is 0.9975800000000001
+Expected Gain from iteration 10 is 0.9978699999999997
+The expected gain for fitted data after 10 iterations is: 0.9978699999999997
+Writing to file.
+Done.
+Generating testing data for seed 52
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 32
+Generating 32x32 Gain Matrix. Identity Matrix: True
+32x32 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 32 classes and 100000 possible measures.
+Class conditional probabilities generated for 32 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.05709000000000001
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.9708799999999997
+Expected Gain from iteration 2 is 0.98611
+Expected Gain from iteration 3 is 0.9903500000000002
+Expected Gain from iteration 4 is 0.9923
+Expected Gain from iteration 5 is 0.9936699999999999
+Expected Gain from iteration 6 is 0.99485
+Expected Gain from iteration 7 is 0.9956000000000002
+Expected Gain from iteration 8 is 0.9961800000000002
+Expected Gain from iteration 9 is 0.9963299999999998
+Expected Gain from iteration 10 is 0.9967300000000001
+The expected gain for fitted data after 10 iterations is: 0.9967300000000001
+Writing to file.
+Done.
+Generating testing data for seed 53
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 33
+Generating 33x33 Gain Matrix. Identity Matrix: True
+33x33 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 33 classes and 100000 possible measures.
+Class conditional probabilities generated for 33 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.05454
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.969
+Expected Gain from iteration 2 is 0.9854600000000002
+Expected Gain from iteration 3 is 0.9904799999999999
+Expected Gain from iteration 4 is 0.9926399999999997
+Expected Gain from iteration 5 is 0.99359
+Expected Gain from iteration 6 is 0.9945899999999996
+Expected Gain from iteration 7 is 0.9954199999999997
+Expected Gain from iteration 8 is 0.9960999999999999
+Expected Gain from iteration 9 is 0.9966000000000002
+Expected Gain from iteration 10 is 0.9966199999999998
+The expected gain for fitted data after 10 iterations is: 0.9966199999999998
+Writing to file.
+Done.
+Generating testing data for seed 54
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 34
+Generating 34x34 Gain Matrix. Identity Matrix: True
+34x34 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 34 classes and 100000 possible measures.
+Class conditional probabilities generated for 34 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.047049999999999995
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.9704299999999999
+Expected Gain from iteration 2 is 0.98611
+Expected Gain from iteration 3 is 0.9904099999999999
+Expected Gain from iteration 4 is 0.99279
+Expected Gain from iteration 5 is 0.9938300000000001
+Expected Gain from iteration 6 is 0.9946899999999999
+Expected Gain from iteration 7 is 0.9953599999999999
+Expected Gain from iteration 8 is 0.9962400000000001
+Expected Gain from iteration 9 is 0.99656
+Expected Gain from iteration 10 is 0.9968799999999999
+The expected gain for fitted data after 10 iterations is: 0.9968799999999999
+Writing to file.
+Done.
+Generating testing data for seed 55
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 35
+Generating 35x35 Gain Matrix. Identity Matrix: True
+35x35 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 35 classes and 100000 possible measures.
+Class conditional probabilities generated for 35 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.05549
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.9687599999999998
+Expected Gain from iteration 2 is 0.9846900000000001
+Expected Gain from iteration 3 is 0.98971
+Expected Gain from iteration 4 is 0.9923000000000001
+Expected Gain from iteration 5 is 0.9936000000000001
+Expected Gain from iteration 6 is 0.99488
+Expected Gain from iteration 7 is 0.9953799999999999
+Expected Gain from iteration 8 is 0.99571
+Expected Gain from iteration 9 is 0.9959400000000002
+Expected Gain from iteration 10 is 0.9958700000000004
+The expected gain for fitted data after 10 iterations is: 0.9958700000000004
+Writing to file.
+Done.
+Generating testing data for seed 56
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 36
+Generating 36x36 Gain Matrix. Identity Matrix: True
+36x36 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 36 classes and 100000 possible measures.
+Class conditional probabilities generated for 36 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.04874
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.9677200000000002
+Expected Gain from iteration 2 is 0.9839100000000001
+Expected Gain from iteration 3 is 0.9891699999999999
+Expected Gain from iteration 4 is 0.9922199999999999
+Expected Gain from iteration 5 is 0.9933599999999999
+Expected Gain from iteration 6 is 0.9944899999999999
+Expected Gain from iteration 7 is 0.9950600000000001
+Expected Gain from iteration 8 is 0.9957499999999999
+Expected Gain from iteration 9 is 0.9964199999999999
+Expected Gain from iteration 10 is 0.9968599999999999
+The expected gain for fitted data after 10 iterations is: 0.9968599999999999
+Writing to file.
+Done.
+Generating testing data for seed 57
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 37
+Generating 37x37 Gain Matrix. Identity Matrix: True
+37x37 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 37 classes and 100000 possible measures.
+Class conditional probabilities generated for 37 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.04379000000000001
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.9668600000000002
+Expected Gain from iteration 2 is 0.98383
+Expected Gain from iteration 3 is 0.9889400000000002
+Expected Gain from iteration 4 is 0.99195
+Expected Gain from iteration 5 is 0.9933500000000001
+Expected Gain from iteration 6 is 0.9943500000000001
+Expected Gain from iteration 7 is 0.9951500000000002
+Expected Gain from iteration 8 is 0.9955600000000001
+Expected Gain from iteration 9 is 0.9960200000000001
+Expected Gain from iteration 10 is 0.9964499999999998
+The expected gain for fitted data after 10 iterations is: 0.9964499999999998
+Writing to file.
+Done.
+Generating testing data for seed 58
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 38
+Generating 38x38 Gain Matrix. Identity Matrix: True
+38x38 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 38 classes and 100000 possible measures.
+Class conditional probabilities generated for 38 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.05202
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.9663800000000002
+Expected Gain from iteration 2 is 0.9835400000000001
+Expected Gain from iteration 3 is 0.9887599999999999
+Expected Gain from iteration 4 is 0.9914599999999996
+Expected Gain from iteration 5 is 0.9929699999999999
+Expected Gain from iteration 6 is 0.9939899999999998
+Expected Gain from iteration 7 is 0.9950900000000001
+Expected Gain from iteration 8 is 0.99547
+Expected Gain from iteration 9 is 0.9958300000000001
+Expected Gain from iteration 10 is 0.9964200000000002
+The expected gain for fitted data after 10 iterations is: 0.9964200000000002
+Writing to file.
+Done.
+Generating testing data for seed 59
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 39
+Generating 39x39 Gain Matrix. Identity Matrix: True
+39x39 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 39 classes and 100000 possible measures.
+Class conditional probabilities generated for 39 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.04046
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.9634800000000002
+Expected Gain from iteration 2 is 0.98158
+Expected Gain from iteration 3 is 0.98755
+Expected Gain from iteration 4 is 0.99082
+Expected Gain from iteration 5 is 0.9923900000000001
+Expected Gain from iteration 6 is 0.99392
+Expected Gain from iteration 7 is 0.9947699999999998
+Expected Gain from iteration 8 is 0.9953
+Expected Gain from iteration 9 is 0.9960200000000001
+Expected Gain from iteration 10 is 0.9964299999999999
+The expected gain for fitted data after 10 iterations is: 0.9964299999999999
+Writing to file.
+Done.
+Generating testing data for seed 60
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 40
+Generating 40x40 Gain Matrix. Identity Matrix: True
+40x40 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 40 classes and 100000 possible measures.
+Class conditional probabilities generated for 40 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.03798
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.9634799999999998
+Expected Gain from iteration 2 is 0.9828500000000001
+Expected Gain from iteration 3 is 0.9876500000000002
+Expected Gain from iteration 4 is 0.9910899999999998
+Expected Gain from iteration 5 is 0.99265
+Expected Gain from iteration 6 is 0.9935999999999997
+Expected Gain from iteration 7 is 0.9946700000000002
+Expected Gain from iteration 8 is 0.9953899999999999
+Expected Gain from iteration 9 is 0.9955900000000002
+Expected Gain from iteration 10 is 0.9962900000000001
+The expected gain for fitted data after 10 iterations is: 0.9962900000000001
+Writing to file.
+Done.
+Generating testing data for seed 61
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 41
+Generating 41x41 Gain Matrix. Identity Matrix: True
+41x41 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 41 classes and 100000 possible measures.
+Class conditional probabilities generated for 41 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.04186
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.9638499999999999
+Expected Gain from iteration 2 is 0.9828500000000001
+Expected Gain from iteration 3 is 0.98872
+Expected Gain from iteration 4 is 0.99197
+Expected Gain from iteration 5 is 0.9936900000000001
+Expected Gain from iteration 6 is 0.9940599999999999
+Expected Gain from iteration 7 is 0.9952300000000002
+Expected Gain from iteration 8 is 0.9958600000000001
+Expected Gain from iteration 9 is 0.9962799999999999
+Expected Gain from iteration 10 is 0.99667
+The expected gain for fitted data after 10 iterations is: 0.99667
+Writing to file.
+Done.
+Generating testing data for seed 62
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 42
+Generating 42x42 Gain Matrix. Identity Matrix: True
+42x42 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 42 classes and 100000 possible measures.
+Class conditional probabilities generated for 42 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.03961
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.9617700000000003
+Expected Gain from iteration 2 is 0.98202
+Expected Gain from iteration 3 is 0.9882799999999998
+Expected Gain from iteration 4 is 0.9912299999999997
+Expected Gain from iteration 5 is 0.9929799999999999
+Expected Gain from iteration 6 is 0.9941299999999998
+Expected Gain from iteration 7 is 0.9946499999999999
+Expected Gain from iteration 8 is 0.9959600000000001
+Expected Gain from iteration 9 is 0.99647
+Expected Gain from iteration 10 is 0.9967900000000001
+The expected gain for fitted data after 10 iterations is: 0.9967900000000001
+Writing to file.
+Done.
+Generating testing data for seed 63
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 43
+Generating 43x43 Gain Matrix. Identity Matrix: True
+43x43 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 43 classes and 100000 possible measures.
+Class conditional probabilities generated for 43 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.04523
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.9634499999999998
+Expected Gain from iteration 2 is 0.9823100000000001
+Expected Gain from iteration 3 is 0.9874099999999997
+Expected Gain from iteration 4 is 0.99007
+Expected Gain from iteration 5 is 0.9914799999999999
+Expected Gain from iteration 6 is 0.9926699999999999
+Expected Gain from iteration 7 is 0.9939699999999999
+Expected Gain from iteration 8 is 0.9946500000000001
+Expected Gain from iteration 9 is 0.9953900000000002
+Expected Gain from iteration 10 is 0.99589
+The expected gain for fitted data after 10 iterations is: 0.99589
+Writing to file.
+Done.
+Generating testing data for seed 64
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 44
+Generating 44x44 Gain Matrix. Identity Matrix: True
+44x44 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 44 classes and 100000 possible measures.
+Class conditional probabilities generated for 44 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.046000000000000006
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.9612800000000001
+Expected Gain from iteration 2 is 0.98056
+Expected Gain from iteration 3 is 0.9875100000000001
+Expected Gain from iteration 4 is 0.9906600000000001
+Expected Gain from iteration 5 is 0.9923799999999999
+Expected Gain from iteration 6 is 0.9933599999999999
+Expected Gain from iteration 7 is 0.9941500000000001
+Expected Gain from iteration 8 is 0.9949200000000001
+Expected Gain from iteration 9 is 0.9954299999999998
+Expected Gain from iteration 10 is 0.99575
+The expected gain for fitted data after 10 iterations is: 0.99575
+Writing to file.
+Done.
+Generating testing data for seed 65
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 45
+Generating 45x45 Gain Matrix. Identity Matrix: True
+45x45 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 45 classes and 100000 possible measures.
+Class conditional probabilities generated for 45 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.04056
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.9588300000000001
+Expected Gain from iteration 2 is 0.9805999999999999
+Expected Gain from iteration 3 is 0.9868699999999999
+Expected Gain from iteration 4 is 0.99021
+Expected Gain from iteration 5 is 0.9920400000000003
+Expected Gain from iteration 6 is 0.9934699999999997
+Expected Gain from iteration 7 is 0.99402
+Expected Gain from iteration 8 is 0.99474
+Expected Gain from iteration 9 is 0.9951199999999998
+Expected Gain from iteration 10 is 0.99541
+The expected gain for fitted data after 10 iterations is: 0.99541
+Writing to file.
+Done.
+Generating testing data for seed 66
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 46
+Generating 46x46 Gain Matrix. Identity Matrix: True
+46x46 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 46 classes and 100000 possible measures.
+Class conditional probabilities generated for 46 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.036309999999999995
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.95813
+Expected Gain from iteration 2 is 0.97972
+Expected Gain from iteration 3 is 0.9864499999999997
+Expected Gain from iteration 4 is 0.9900299999999997
+Expected Gain from iteration 5 is 0.9914000000000001
+Expected Gain from iteration 6 is 0.99301
+Expected Gain from iteration 7 is 0.99456
+Expected Gain from iteration 8 is 0.99553
+Expected Gain from iteration 9 is 0.9960600000000001
+Expected Gain from iteration 10 is 0.9964299999999998
+The expected gain for fitted data after 10 iterations is: 0.9964299999999998
+Writing to file.
+Done.
+Generating testing data for seed 67
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 47
+Generating 47x47 Gain Matrix. Identity Matrix: True
+47x47 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 47 classes and 100000 possible measures.
+Class conditional probabilities generated for 47 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.03658
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.9578599999999998
+Expected Gain from iteration 2 is 0.97899
+Expected Gain from iteration 3 is 0.98567
+Expected Gain from iteration 4 is 0.9902099999999998
+Expected Gain from iteration 5 is 0.9920300000000001
+Expected Gain from iteration 6 is 0.9927699999999998
+Expected Gain from iteration 7 is 0.9940699999999998
+Expected Gain from iteration 8 is 0.99488
+Expected Gain from iteration 9 is 0.99538
+Expected Gain from iteration 10 is 0.9954799999999998
+The expected gain for fitted data after 10 iterations is: 0.9954799999999998
+Writing to file.
+Done.
+Generating testing data for seed 68
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 48
+Generating 48x48 Gain Matrix. Identity Matrix: True
+48x48 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 48 classes and 100000 possible measures.
+Class conditional probabilities generated for 48 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.03557
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.9592800000000001
+Expected Gain from iteration 2 is 0.9799300000000001
+Expected Gain from iteration 3 is 0.9860999999999998
+Expected Gain from iteration 4 is 0.98886
+Expected Gain from iteration 5 is 0.9906499999999997
+Expected Gain from iteration 6 is 0.9925
+Expected Gain from iteration 7 is 0.9934
+Expected Gain from iteration 8 is 0.9940299999999996
+Expected Gain from iteration 9 is 0.99458
+Expected Gain from iteration 10 is 0.9953700000000001
+The expected gain for fitted data after 10 iterations is: 0.9953700000000001
+Writing to file.
+Done.
+Generating testing data for seed 69
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 49
+Generating 49x49 Gain Matrix. Identity Matrix: True
+49x49 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 49 classes and 100000 possible measures.
+Class conditional probabilities generated for 49 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.040870000000000004
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.9553700000000002
+Expected Gain from iteration 2 is 0.9783300000000004
+Expected Gain from iteration 3 is 0.9845799999999999
+Expected Gain from iteration 4 is 0.9884100000000002
+Expected Gain from iteration 5 is 0.9900099999999997
+Expected Gain from iteration 6 is 0.9914799999999998
+Expected Gain from iteration 7 is 0.9927
+Expected Gain from iteration 8 is 0.9936300000000002
+Expected Gain from iteration 9 is 0.9941400000000001
+Expected Gain from iteration 10 is 0.9947199999999999
+The expected gain for fitted data after 10 iterations is: 0.9947199999999999
+Writing to file.
+Done.
+Generating testing data for seed 70
+Dimensions of Measurement Space: (10, 10, 10, 10, 10)
+Number of Samples: 100000
+Classes: 50
+Generating 50x50 Gain Matrix. Identity Matrix: True
+50x50 Economic Gain Matrix Generated
+Generating 100000 Measure-Value pairs.
+Generating measures.
+100000 measures and 100000 values generated.
+Generating class conditional probabilities for 50 classes and 100000 possible measures.
+Class conditional probabilities generated for 50 classes and 100000 possible measures
+Testing classifier. V-fold factor: 10
+The expected gain for the given data is: 0.03432
+Fitting data for improved performance. Improvement factor 0.01 used over 10 iterations.
+Expected Gain from iteration 1 is 0.9554
+Expected Gain from iteration 2 is 0.9784500000000002
+Expected Gain from iteration 3 is 0.9857700000000005
+Expected Gain from iteration 4 is 0.98946
+Expected Gain from iteration 5 is 0.9913100000000001
+Expected Gain from iteration 6 is 0.9926100000000001
+Expected Gain from iteration 7 is 0.9939300000000001
+Expected Gain from iteration 8 is 0.9949399999999997
+Expected Gain from iteration 9 is 0.9955399999999999
+Expected Gain from iteration 10 is 0.9960399999999997
+The expected gain for fitted data after 10 iterations is: 0.9960399999999997
+Writing to file.
+Done.
